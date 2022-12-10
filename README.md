@@ -1,7 +1,7 @@
 # Factions
 
 ## Author
-I (Irantwomiles) created this by myself, but everyone is welcomed to make a fork
+I (NotDropeado) created this by myself (Using Irantwomiles code), but everyone is welcomed to make a fork
 of this for their own use, I just ask people not to sell this as I have provided
 this for free.
 
